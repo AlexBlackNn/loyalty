@@ -143,3 +143,5 @@ golangci-lint run -v
 
 staticcheck ./...
 
+
+https://medium.com/@bbeatrice.leung/quick-introduction-to-using-golang-for-kafka-3979e6b6b1aa
